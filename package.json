@@ -1,0 +1,14 @@
+{
+  "name": "izyl-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zhangyanling77/izyl-ui.git",
+  "author": "zhangyanling <18783226594@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "doc:dev": "umi-lib doc dev"
+  },
+  "devDependencies": {
+    "umi-library": "^1.6.0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "config": {
+    "title": "Izyl Ui",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": false,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-",
+    "typescript": false,
+    "theme": "/Users/zhangyanling/Desktop/zyl-ui-project/izyl-ui/node_modules/docz-theme-umi/es/index.js",
+    "plugins": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "entries": [
+    {
+      "key": "src/foo/index.mdx",
+      "value": {
+        "name": "Foo",
+        "route": "/",
+        "id": "696b9e2bee476b7167a131fac0f46901",
+        "filepath": "src/foo/index.mdx",
+        "link": "https://github.com/zhangyanling77/izyl-ui/edit/master/src/foo/index.mdx",
+        "slug": "src-foo-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "foo-component",
+            "depth": 1,
+            "value": "Foo Component"
+          },
+          {
+            "slug": "normal-foo",
+            "depth": 2,
+            "value": "Normal Foo"
+          },
+          {
+            "slug": "large-foo-with-playground",
+            "depth": 2,
+            "value": "Large Foo with playground"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
